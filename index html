@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Terms - BinX</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #ccc;
+      font-family: "Segoe UI", Tahoma, sans-serif;
+      font-size: 0.68rem;
+      line-height: 1.5;
+      padding: 1.5rem;
+      margin: 0;
+    }
+
+    h1, h2 {
+      color: #fff;
+      margin-top: 1.2rem;
+      margin-bottom: 0.4rem;
+    }
+
+    h1 {
+      font-size: 1rem;
+      text-align: center;
+    }
+
+    h2 {
+      font-size: 0.85rem;
+    }
+
+    p, li {
+      margin: 0.3rem 0;
+    }
+
+    ul {
+      padding-left: 1.2rem;
+    }
+
+    a {
+      color: #999;
+      text-decoration: none;
+    }
+
+    .note {
+      background-color: #111;
+      border-left: 3px solid #555;
+      padding: 0.6rem;
+      margin-top: 1rem;
+      font-weight: 500;
+      color: #eee;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>BinX App – Terms & Conditions</h1>
+  <p><strong>Last Updated:</strong> June 28, 2025</p>
+  <p>Please read these terms carefully before using the BinX app.</p>
+
+  <h2>1. Interpretation and Definitions</h2>
+  <p><strong>Application:</strong> BinX software used on electronic devices.</p>
+  <p><strong>App Store:</strong> Officially available only on <strong>GitHub</strong>.</p>
+  <p><strong>Company:</strong> Refers to BinX and its owner ("we").</p>
+  <p><strong>You:</strong> The user accessing the app.</p>
+
+  <h2>2. Acknowledgment</h2>
+  <p>By using BinX, you agree to these terms. Must be 18+.</p>
+
+  <h2>3. External Links</h2>
+  <p>We're not responsible for third-party content or policies.</p>
+
+  <h2>4. Termination</h2>
+  <p>We may suspend access anytime for violations.</p>
+
+  <h2>5. Limitation of Liability</h2>
+  <p>Not liable for data loss, damages, or interruptions.</p>
+
+  <h2>6. Disclaimer</h2>
+  <p>The app is provided "as is" without guarantees.</p>
+
+  <h2>7. Governing Law</h2>
+  <p>Subject to the laws where the Company operates.</p>
+
+  <h2>8. Dispute Resolution</h2>
+  <p>Contact us first before taking legal steps.</p>
+
+  <h2>9. EU Users</h2>
+  <p>Protected by laws of your country of residence.</p>
+
+  <h2>10. U.S. Compliance</h2>
+  <ul>
+    <li>Not in a sanctioned country.</li>
+    <li>Not on U.S. denied lists.</li>
+  </ul>
+
+  <h2>11. Severability</h2>
+  <p>Invalid terms will be modified, others remain effective.</p>
+
+  <h2>12. Translations</h2>
+  <p>If conflicts arise, English version applies.</p>
+
+  <h2>13. Changes</h2>
+  <p>We may update terms. Continued use = acceptance.</p>
+
+  <h2>14. Contact</h2>
+  <p>📧 <a href="mailto:abdoalshazly870@gmail.com">abdoalshazly870@gmail.com</a></p>
+
+  <div class="note">
+    ✅ BinX is officially available <strong>only</strong> via GitHub
+  </div>
+
+</body>
+</html>
